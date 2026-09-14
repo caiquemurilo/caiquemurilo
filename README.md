@@ -1,12 +1,10 @@
 <h1 align="left"> Olá, eu sou o Caique Murilo! 👋</h1>
 
-**`Desenvolvedor Full Stack Júnior | Bacharel em Engenharia de Software`**[cite: 1]
+**`Desenvolvedor Full Stack Júnior | Bacharel em Engenharia de Software`**
 
-Sou um desenvolvedor focado em engenharia de software, resolução de problemas e construção de aplicações web, buscando minha primeira oportunidade profissional na área de desenvolvimento[cite: 1].
+Combinando minha base técnica a mais de 10 anos de experiência prévia em gestão de negócios, desenvolvi uma forte visão sistêmica e capacidade analítica — competências que me permitem enxergar o desenvolvimento de software não apenas como linhas de código, mas através da lente de problemas reais e das necessidades dos usuários.
 
-Minha trajetória profissional começou fora da tecnologia, acumulando mais de 10 anos de experiência em gestão de negócios[cite: 1]. Essa bagagem contribuiu para desenvolver minha visão sistêmica, raciocínio lógico, organização e capacidade analítica — habilidades de resolução de problemas que hoje aplico no desenvolvimento de software[cite: 1]. 
-
-Ao longo da minha transição para a tecnologia, construí uma base prática sólida através de uma pós-graduação e de um bootcamp intensivo, ambos com foco na stack MERN (MongoDB, Express, React, Node.js) e SQL[cite: 1]. Meu foco profissional é atuar como contribuidor individual (IC), construindo soluções reais usando tecnologia existente para gerar resultados mensuráveis.
+Com mais de 1 ano de dedicação a estudos práticos e intensivos, consolidei minha experiência na construção de aplicações web utilizando React, JavaScript, HTML e CSS, além de aprofundar continuamente meus conhecimentos no Back-end com Node.js, Express.js, MongoDB, SQL e APIs REST. Essa base técnica foi construída por meio de projetos em dois programas rigorosos: uma pós-graduação no Instituto Infnet e o bootcamp da TripleTen Brasil.
 
 <p align="left">
     <a href="https://linkedin.com/in/caiquemurilo" target="_blank">
@@ -24,15 +22,15 @@ Ao longo da minha transição para a tecnologia, construí uma base prática só
 
 ### 📚 Formação e Atuação
 
-- 🎓 **Engenharia de Software (Bacharelado)** — UniCesumar[cite: 1].
-- 🎓 **Desenvolvimento Web Full Stack (Bootcamp)** — TripleTen Brasil[cite: 1].
-- 🎓 **Desenvolvimento Web Full Stack (Pós-graduação)** — Instituto Infnet[cite: 1].
-- 🎓 **Administração de Empresas (Bacharelado)** — CESUPA[cite: 1].
-- 🚀 **Atualmente:** Atuo como AI Trainer, avaliando e refinando respostas de modelos de linguagem (LLMs) com aplicação de raciocínio analítico para validação lógica[cite: 1].
+- 🎓 **Engenharia de Software (Bacharelado)** — UniCesumar.
+- 🎓 **Desenvolvimento Web Full Stack (Bootcamp)** — TripleTen Brasil.
+- 🎓 **Desenvolvimento Web Full Stack (Pós-graduação)** — Instituto Infnet.
+- 🎓 **Administração de Empresas (Bacharelado)** — CESUPA.
+- 🚀 **Atualmente:** 
+  - **AI Trainer (Outlier):** Avalio e refino respostas de modelos de linguagem (LLMs) aplicando raciocínio analítico para validação lógica e correção.
+  - **Proprietário de Microagência Digital (Guia-se):** Coordenando o ciclo de vida de projetos digitais, do planejamento à execução de campanhas e estruturação web.
 
 ### 🛠️ Linguagens e Tecnologias
-
-Tenho experiência prática no desenvolvimento de aplicações web utilizando[cite: 1]:
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -40,7 +38,9 @@ Tenho experiência prática no desenvolvimento de aplicações web utilizando[ci
   </a>
 </p>
 
-*Também trabalho com: REST APIs, JWT, Unit Testing, JSON e Dev Tools*[cite: 1].
+- **Front-end:** React, JavaScript, HTML, CSS.
+- **Back-end & Banco de Dados:** Node.js, Express.js, MongoDB, SQL, REST APIs.
+- **Ferramentas e Metodologias:** JWT, Unit Testing, Git, GitHub, Postman, JSON, Dev Tools.
 
 <br/>
 
@@ -48,17 +48,17 @@ Tenho experiência prática no desenvolvimento de aplicações web utilizando[ci
 
 | Nome do Projeto | Link do Repositório | Linguagens/Stack | Observação | 
 | --------------- | ------------------- | ---------------- | ---------- |
-| **[Nome do Projeto Full Stack]** | [Ver Repositório](https://github.com/caiquemurilo/link-do-projeto-fullstack) | React, Node.js, Express, MongoDB | **Aplicação web Full Stack.** Desenvolvida com React no Front-end e Node.js/Express.js no Back-end, integrada via API REST e utilizando banco de dados MongoDB[cite: 1]. |
-| **Around The U.S. - React** | [Ver Repositório](https://github.com/caiquemurilo/web-project-around-react) | React.js | **Single Page Application (SPA).** Aplicação desenvolvida com componentização, gerenciamento de estado com React Hooks e integração com APIs REST[cite: 1]. Conta com implementação de CRUD para gerenciamento de cards, edição de perfil e sistema interativo de curtidas[cite: 1]. |
-| **Around The U.S. - Vanilla JS** | [Ver Repositório](https://github.com/caiquemurilo/web-project-around-pt) | JavaScript | **Aplicação com JavaScript Puro.** Construída utilizando Programação Orientada a Objetos (OOP)[cite: 1]. Utiliza classes modulares para validação de formulários, manipulação do DOM e comunicação com API[cite: 1]. |
+| **Around The U.S. - React** | [Ver Repositório](https://github.com/caiquemurilo/web_project_around_react) | React.js | **Single Page Application (SPA).** Desenvolvida com componentização, gerenciamento de estado com React Hooks e integração com APIs REST. Possui implementação de CRUD para cards, edição de perfil e sistema interativo de curtidas. |
+| **Around The U.S. - Vanilla JS** | [Ver Repositório](https://github.com/caiquemurilo/web_project_around_pt) | JavaScript | **Aplicação com JavaScript Puro.** Construída utilizando Programação Orientada a Objetos (OOP), com classes modulares para validação de formulários, manipulação do DOM e comunicação com API. |
+| **Expenses Control** | [Ver Repositório](https://github.com/caiquemurilo/web_project_expenses_pt) | JavaScript, CSS | **Gestão de Despesas.** Aplicação web com foco em manipulação prática do DOM utilizando JavaScript puro. Estruturada utilizando a metodologia BEM para organização e manutenção do CSS. |
 
 <br/>
 
+<!-- Ocultado temporariamente pois a API do github-readme-stats está fora do ar
 ### 📊 Estatísticas
 
-<p align="left">
-  <img align="left" alt="GitHub Stats" height="195" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=caiquemurilo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img align="left" alt="Top Langs" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquemurilo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" />
-</p>
-
-<br clear="both"/>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=caiquemurilo&show_icons=true&theme=tokyonight&locale=pt-br" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquemurilo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" height="170" alt="Top Langs" />
+</div>
+-->
