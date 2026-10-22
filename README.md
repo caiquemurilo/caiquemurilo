@@ -44,13 +44,13 @@ Com mais de 1 ano de dedicação a estudos práticos e intensivos, consolidei mi
 
 <br/>
 
-### 📂 Projetos em Destaque
+### 📂 Featured Projects
 
-| Nome do Projeto | Link do Repositório | Linguagens/Stack | Observação | 
+| Project Name | Repository Link | Languages/Stack | Note | 
 | --------------- | ------------------- | ---------------- | ---------- |
-| **Around The U.S. - React** | [Ver Repositório](https://github.com/caiquemurilo/web_project_around_react) | React.js | **Single Page Application (SPA).** Desenvolvida com componentização, gerenciamento de estado com React Hooks e integração com APIs REST. Possui implementação de CRUD para cards, edição de perfil e sistema interativo de curtidas. |
-| **Around The U.S. - Vanilla JS** | [Ver Repositório](https://github.com/caiquemurilo/web_project_around_pt) | JavaScript | **Aplicação com JavaScript Puro.** Construída utilizando Programação Orientada a Objetos (OOP), com classes modulares para validação de formulários, manipulação do DOM e comunicação com API. |
-| **Expenses Control** | [Ver Repositório](https://github.com/caiquemurilo/web_project_expenses_pt) | JavaScript, CSS | **Gestão de Despesas.** Aplicação web com foco em manipulação prática do DOM utilizando JavaScript puro. Estruturada utilizando a metodologia BEM para organização e manutenção do CSS. |
+| **Around The U.S. - React** | [Ver Repositório](https://github.com/caiquemurilo/web_project_around_react) | React.js | **Single Page Application (SPA).** Developed using component-based architecture, state management with React Hooks, and integration with REST APIs. Features CRUD functionality for cards, profile editing, and an interactive "like" system. |
+| **Around The U.S. - Vanilla JS** | [Ver Repositório](https://github.com/caiquemurilo/web_project_around_pt) | JavaScript | **Application built with Vanilla JavaScript. Developed using Object-Oriented Programming (OOP), featuring modular classes for form validation, DOM manipulation, and API communication. |
+| **Around the U.S. - Backend ** | [Ver Repositório](https://github.com/caiquemurilo/web_project_around_express) | Express.js, MongoDB | **Gestão de Despesas.** This is the backend infrastructure for the "Around the U.S." web application. It serves as a RESTful API to manage user profiles and image cards for the React frontend. |
 
 <br/>
 
