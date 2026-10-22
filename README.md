@@ -50,7 +50,7 @@ Com mais de 1 ano de dedicação a estudos práticos e intensivos, consolidei mi
 | --------------- | ------------------- | ---------------- | ---------- |
 | **Around The U.S. - React** | [Ver Repositório](https://github.com/caiquemurilo/web_project_around_react) | React.js, Vite | **Single Page Application (SPA).** Developed using component-based architecture, state management with React Hooks, and integration with REST APIs. Features CRUD functionality for cards, profile editing, and an interactive "like" system. |
 | **Around The U.S. - Vanilla JS** | [Ver Repositório](https://github.com/caiquemurilo/web_project_around_pt) | JavaScript | **Application built with Vanilla JavaScript.** Developed using Object-Oriented Programming (OOP), featuring modular classes for form validation, DOM manipulation, and API communication. |
-| **Around the U.S. - Backend ** | [Ver Repositório](https://github.com/caiquemurilo/web_project_around_express) | Node.js, Express.js, MongoDB | **RESTful API infrastructure.** Developed using Node.js, Express, and Mongoose for schema modeling. Features comprehensive CRUD controllers, centralized error handling, custom data validation, and seamless integration with the React frontend. |
+| **Around the U.S. - Backend** | [Ver Repositório](https://github.com/caiquemurilo/web_project_around_express) | Node.js, Express.js, MongoDB | **RESTful API infrastructure.** Developed using Node.js, Express, and Mongoose for schema modeling. Features comprehensive CRUD controllers, centralized error handling, custom data validation, and seamless integration with the React frontend. |
 
 <br/>
 
